@@ -54,16 +54,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhailasrulsani-git&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1F3A&title_color=38D200&icon_color=4DA3FF&text_color=E6EDF3&custom_title=GitHub%20stats&disable_animations=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailasrulsani-git&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=38D200&text_color=E6EDF3&disable_animations=true" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhailasrulsani-git&hide_border=true&background=0B1F3A&ring=38D200&fire=38D200&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4DA3FF&sideLabels=9FB3C8&dates=9FB3C8&stroke=1F3A63&disable_animations=true" alt="GitHub streak">
-</p>
-
 ### Contact
 
 <p>
